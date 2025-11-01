@@ -1,4 +1,8 @@
-# COMP2000 Project
-## Restaurant Management Application - Design Exersises
+# Restaurant Management Application - Android Implementation
 
-This repo contains the Android Studio project files for my COMP2000 Project that aims to design and implement a Restaurant Management Application.
+## COMP2000 Assessment 1 -
+
+This package contains the complete documentation and Android XML layouts for the Restaurant Management Application, incorporating all feedback improvements from Exercise 3.
+
+---
+
